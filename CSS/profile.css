@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+html {
+  width: 400px;
+  height: 600px;
+}
+
+body {
+  background: #f97753;
+  border: 1px solid #c0392b;
+  border-radius: 15px;
+  box-sizing: border-box;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
+
+.profile {
+  margin: 0;
+  color: white;
+  width: 400px;
+  height: 600px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  border-radius: 50%;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
